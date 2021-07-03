@@ -42,7 +42,7 @@
                 android:fontFamily="@font/kionaregular"
                 android:textColor="@color/white"
                 android:textStyle="bold"
-                android:text="1000 hpa"
+                android:text="--"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"/>
 
@@ -87,7 +87,7 @@
                 android:fontFamily="@font/kionaregular"
                 android:textColor="@color/white"
                 android:textStyle="bold"
-                android:text="5.3 Km/h"
+                android:text="--"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"/>
 
@@ -131,7 +131,7 @@
                 android:fontFamily="@font/kionaregular"
                 android:textColor="@color/white"
                 android:textStyle="bold"
-                android:text="23°C"
+                android:text="--"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"/>
 
@@ -176,7 +176,7 @@
                 android:fontFamily="@font/kionaregular"
                 android:textColor="@color/white"
                 android:textStyle="bold"
-                android:text="10KM"
+                android:text="--"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"/>
 
@@ -221,7 +221,7 @@
                 android:fontFamily="@font/kionaregular"
                 android:textColor="@color/white"
                 android:textStyle="bold"
-                android:text="12%"
+                android:text="--"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"/>
 
@@ -266,7 +266,7 @@
                 android:fontFamily="@font/kionaregular"
                 android:textColor="@color/white"
                 android:textStyle="bold"
-                android:text="12%"
+                android:text="--"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"/>
 
